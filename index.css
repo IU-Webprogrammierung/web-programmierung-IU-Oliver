@@ -1,0 +1,8 @@
+header {
+    color: white;
+    background-color: blue;
+}
+nav    { background-color: green; }
+main   { background-color: grey; }
+aside  { background-color: yellow; }
+footer { background-color: red; }
